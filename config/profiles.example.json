@@ -1,0 +1,20 @@
+{
+  "you": {
+    "name": "Your Name",
+    "linkedinUrl": "https://www.linkedin.com/in/your-handle/"
+  },
+  "competitors": [
+    {
+      "name": "Competitor A",
+      "linkedinUrl": "https://www.linkedin.com/in/competitor-a/"
+    },
+    {
+      "name": "Competitor B",
+      "linkedinUrl": "https://www.linkedin.com/in/competitor-b/"
+    }
+  ],
+  "settings": {
+    "yourPostsToFetch": 100,
+    "competitorPostsToFetch": 25
+  }
+}

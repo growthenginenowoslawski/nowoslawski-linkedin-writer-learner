@@ -1,0 +1,21 @@
+{
+  "name": "nowoslawski-linkedin-writer-learner",
+  "version": "0.1.0",
+  "description": "Scrape your own + competitors' LinkedIn posts, rank by engagement, learn what's working.",
+  "type": "module",
+  "scripts": {
+    "setup": "tsx src/setup.ts",
+    "run": "tsx src/index.ts",
+    "scrape": "tsx src/index.ts --scrape-only",
+    "analyze": "tsx src/index.ts --analyze-only"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3",
+    "@types/node": "^22.7.5"
+  }
+}

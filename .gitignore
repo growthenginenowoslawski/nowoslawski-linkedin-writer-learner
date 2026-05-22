@@ -1,0 +1,7 @@
+node_modules/
+.env
+.env.local
+output/
+config/profiles.json
+*.log
+.DS_Store
