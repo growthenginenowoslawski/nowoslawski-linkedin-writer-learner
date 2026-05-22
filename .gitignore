@@ -1,4 +1,5 @@
 node_modules/
+.enzyme/
 .env
 .env.local
 output/
